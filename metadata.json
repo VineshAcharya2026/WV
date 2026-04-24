@@ -1,0 +1,6 @@
+{
+  "name": "Bolo - Voice Message Reader",
+  "description": "An intuitive app for Indian users to translate and read English messages aloud in their native languages.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
